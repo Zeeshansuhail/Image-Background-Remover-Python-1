@@ -16,6 +16,7 @@ currentDir = os.path.dirname(__file__)
 
 # Functions:
 # Save Results
+#
 
 
 def save_output(image_name, output_name, pred, d_dir, type):
